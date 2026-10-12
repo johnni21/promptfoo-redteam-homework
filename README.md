@@ -137,4 +137,4 @@ az üzletszabályzatban külön pontosítanám.
 
 ## Loom videó
 
-A VIDEÓ LINKJE IDE KERÜL
+[Megoldás bemutatása – Loom videó](https://www.loom.com/share/39da6d8af36a42de8ecf9cde6636dc85)
